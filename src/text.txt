@@ -1,0 +1,5 @@
+uvicorn server:app --reload
+
+fazer as outras duas funcoes 
+mostrar somente um animal pedido 
+deletar um animal especifico 
